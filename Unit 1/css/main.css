@@ -1,0 +1,22 @@
+body {
+	background-color: #82C0FF;
+}
+
+h1, h3, p {
+	color: black;
+	font-family: Courier, monospace;
+	text-align: center;
+}
+
+.titlebox {
+	border: 2px dashed;
+	border-bottom-color: black;
+	border-left-color: red;
+	border-top-color: black;
+	border-right-color: red;
+	width: max-content;
+	margin-left: 35%;
+	padding-left: 5px;
+	padding-right: 5px
+
+}
