@@ -5,43 +5,44 @@
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
-	<!-- Side Navigation Panel: About/Contact Me -->
-	<div id="sidenav">
-		<h1>My Mission</h1>
-		<P>I want to create, build, innovate, and inspire. I want people to see my work and feel that they can reach the potential and the destiny that they were meant. I want to make people want and see the best in themselves.
+	<div class="container">
+		<!-- Side Navigation Panel: About/Contact Me -->
+		<div id="sidenav">
+			<h1>My Mission</h1>
+			<P>I want to create, build, innovate, and inspire. I want people to see my work and feel that they can reach the potential and the destiny that they were meant. I want to make people want and see the best in themselves.
 
-		I know enough to know that I will never know enough, that there is something to learn in every situation, that if you are not learning you are not growing.
+			I know enough to know that I will never know enough, that there is something to learn in every situation, that if you are not learning you are not growing.
 
-		I have on display some code that I was able to put together after just 12 weeks of working with 5 different languages in a full web stack with Ruby, Ruby on Rails, HTML, CSS, Javascript, and some JQuery. Again, this was after only 12 weeks working with coding. I have recently quit my job to dedicate my time to coding. To hone and perfect my craft as best I can. I am focused, driven, and dedicated to becoming the best that I can be. In coding, in health, in personal development. 
+			I have on display some code that I was able to put together after just 12 weeks of working with 5 different languages in a full web stack with Ruby, Ruby on Rails, HTML, CSS, Javascript, and some JQuery. Again, this was after only 12 weeks working with coding. I have recently quit my job to dedicate my time to coding. To hone and perfect my craft as best I can. I am focused, driven, and dedicated to becoming the best that I can be. In coding, in health, in personal development. 
 
-		My skills are not currently top notch, but my passion to better myself and desire to learn and grow are unmatched.
+			My skills are not currently top notch, but my passion to better myself and desire to learn and grow are unmatched.
 
-		I am on a journey to fulfill my destiny, whatever I deem that to be, I am the engineer of my own fate. If you would like to be a part of this journey I am on. Please, contact me!   
-		</P>
-		<img src="#">
+			I am on a journey to fulfill my destiny, whatever I deem that to be, I am the engineer of my own fate. If you would like to be a part of this journey I am on. Please, contact me!   
+			</P>
+			<img src="#">
 
-		<p>Contact Me!</p>
-		<hr>
-		<p>Get in touch with me! <a href="mailto:xam527@gmail.com">Send me an email!</a></p>
-		<a href="www.linkedin.com/in/maximorosario">Linkdin</a>
-		<a href="https://github.com/Maximus-Prhyme">Github</a>
-		<a href="#">Print Resume</a>
-		<a href="#">Download PDF</a>
+			<p>Contact Me!</p>
+			<hr>
+			<ul>
+				<li><p><a href="mailto:xam527@gmail.com">Send me an email!</a></p></li>
+				<li><a href="www.linkedin.com/in/maximorosario">Linkdin</a></li>
+				<li><a href="https://github.com/Maximus-Prhyme">Github</a></li>
+				<li><a href="#">Print Resume</a></li>
+				<li><a href="#">Download PDF</a></li>
+			</ul>
+		</div>
+
+		<div id="maincontent">
+			<!-- Main Content, this is where I display the work that I do have to show -->
+			<!-- Screen shots of Coffee Break -->
+			<h1>Motiviating Masterful Masterpieces</h1>
+			<hr>
+			<img src="Wyncode">
+			<p>Wyncode, and immersive 12 week bootcamp, in which I quit my job as a computer tech to dive into this new tech world developing in Miami. It taught me the struggles of working on a difficult coding project having to make deadlines. It taught me to work with a team developing these projects, along with version control.</p>
+			<img src="CoffeeBreak">
+			<p>Before Wyncode I found myself stuck in a very unfulfilling job. And I have once again found myself in that position, this time however, I have the tools necessary to break myself out of it. I will build and continue building until there is nothing left to build.</p>
+		</div>
+		<p><a href="#">Go to Top!</a></p>
 	</div>
-	<div id="maincontent">
-		<!-- Main Content, this is where I display the work that I do have to show -->
-		<!-- Screen shots of Coffee Break -->
-		<h1>Motiviating Masterful Masterpieces</h1>
-		<hr>
-		<img src="Wyncode">
-		<p>Wyncode, and immersive 12 week bootcamp, in which I quit my job as a computer tech to dive into this new tech world developing in Miami. It taught me the struggles of working on a difficult coding project having to make deadlines. It taught me to work with a team developing these projects, along with version control.</p>
-		<img src="CoffeeBreak">
-		<p>Before Wyncode I found myself stuck in a very unfulfilling job. And I have once again found myself in that position, this time however, I have the tools necessary to break myself out of it. I will build and continue building until there is nothing left to build.</p>
-
-	</div>
-
-
-	<p><a href="#">Go to Top!</a></p>
-
 </body>
 </html>
