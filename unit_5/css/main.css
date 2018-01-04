@@ -16,11 +16,11 @@ body {
 }
 
 header{
-
+    background-color: #FFED74;
 }
 
 nav{
-
+    background-color: #E8C66A;
 }
 
 main{
@@ -28,11 +28,14 @@ main{
 }
 
 section{
-
+    background-color: #FFE2B8;
+}
+div{
+    background-color: #FFE2B8;
 }
 
 footer{
-
+    background-color: #FF957E;
 }
 
 h1,h2,h3 {
@@ -84,6 +87,7 @@ a:focus {
 
 .content{
     display: inline-block;
+
 }
 
 
