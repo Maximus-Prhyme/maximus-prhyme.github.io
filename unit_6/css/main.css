@@ -15,12 +15,28 @@ body {
     text-align: center;
 }
 
-/* Global */
+header{
+    background-color: #FFED74;
+}
 
+nav{
+    background-color: #E8C66A;
+}
 
+main{
 
+}
 
+section{
+    background-color: #FFE2B8;
+}
+div{
+    background-color: #FFE2B8;
+}
 
+footer{
+    background-color: #FF957E;
+}
 
 h1,h2,h3 {
     border-bottom: 4px white solid;
@@ -71,6 +87,7 @@ a:focus {
 
 .content{
     display: inline-block;
+
 }
 
 
